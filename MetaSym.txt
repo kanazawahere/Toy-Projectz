@@ -1,0 +1,40 @@
+The International Diabetes Federation[40] consensus worldwide definition of the metabolic syndrome (2006) is:
+
+waistcircumference
+
+Waist circumference (WC) 
+
+ Central obesity (defined as waist circumference# with ethnicity-specific values) AND any two of the following:
+
+Raised triglycerides: > 150 mg/dL (1.7 mmol/L), or specific treatment for this lipid abnormality
+
+triglyceridemgdl
+HDLcholesterolmgdl
+
+Reduced HDL cholesterol: < 40 mg/dL (1.03 mmol/L) in males, < 50 mg/dL (1.29 mmol/L) in females, or specific treatment for this lipid abnormality
+
+
+Bloodpressurefirstsystolic
+Bloodpressurefirstdiastolic
+
+ or treatment of previously diagnosed hypertension
+
+
+Raised blood pressure (BP): systolic BP > 130 or diastolic BP >85 mm Hg, or treatment of previously diagnosed hypertension
+Raised fasting plasma glucose (FPG): >100 mg/dL (5.6 mmol/L), or previously diagnosed type 2 diabetes
+
+Fastingbloodglucosemgdl
+diabetes
+diabetestreatment
+
+
+If FPG is >5.6 mmol/L or 100 mg/dL, an oral glucose tolerance test is strongly recommended, but is not necessary to define presence of the syndrome. 
+
+
+
+BMI
+Central obesity: waist:hip ratio > 0.90 (male); > 0.85 (female), or body mass index > 30 kg/m2
+
+
+
+# If BMI is >30 kg/m², central obesity can be assumed and waist circumference does not need to be measured

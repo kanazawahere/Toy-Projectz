@@ -1,0 +1,8 @@
+pyimgur
+pyscreenshot
+tzlocal
+python_telegram_bot
+pytz
+distro
+psutil
+Pillow
